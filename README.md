@@ -53,5 +53,5 @@ To do so, you just need to open Unity Hub, then click the white `ADD` button in 
 ## Authors
 
 - **Aleksander Szymański**
-- *Other people working with me on group projects with thier roles are mentioned in `README.md` if the group project folder*
+- *Other people working with me on group projects with their roles are mentioned in `README.md` in the group project folder*
 
