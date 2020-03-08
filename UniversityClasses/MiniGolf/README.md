@@ -8,7 +8,7 @@ MiniGolf is a basic mini gol game, which I made as third [task](./Lista03.pdf) f
 
 ## Instalation
 
-* You can find instalation instructions in [here](Unity/README.md)
+* You can find instalation instructions in [here](https://github.com/Bitterisland6/Unity/blob/master/README.md) in *Running the project* section.
 
 * Unity version: *2019.2.10f1*
 

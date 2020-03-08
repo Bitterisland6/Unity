@@ -7,7 +7,8 @@ I went through tutorial from *CasanisPlays* YouTube channel, and built my game b
 
 ## Instalation
 
-* You can find instalation instructions in [here](../README.md)
+* You can find instalation instructions in [here](https://github.com/Bitterisland6/Unity/blob/master/README.md) in *Running the project* section.
+
 * Unity version: *2018.4.1f1*
 
 ## Instructions

@@ -1,10 +1,11 @@
 # voxLand
 
 VoxLand is a game, which I and my friend made as the final project for University course *Making games in Unity3D game engine*. Here is the version wich we showed our teacher, but the project is still under construction, and we are developing it.
+You can see documentation of this version [here](./VoxLand.pdf) *(it's only in polish)*.
 
 ## Instalation
 
-* You can find instalation instructions in [here](../README.md)
+* You can find instalation instructions in [here](https://github.com/Bitterisland6/Unity/blob/master/README.md) in *Running the project* section.
 
 * Unity version: *2019.2.7f2*
 
