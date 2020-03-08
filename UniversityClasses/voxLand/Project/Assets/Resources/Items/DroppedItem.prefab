@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6572978453749807605
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6572978453749807595}
+  - component: {fileID: 6572978453749807604}
+  - component: {fileID: 6572978453749807592}
+  - component: {fileID: 6616715702948371269}
+  - component: {fileID: 8907965482097202810}
+  m_Layer: 0
+  m_Name: DroppedItem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6572978453749807595
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6572978453749807605}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.6, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6572978453749807604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6572978453749807605}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39aa0a17349ae2242a61a6f1d910efe9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slots:
+  - suffixes: []
+    slotTransforms: []
+    models: []
+  - suffixes:
+    - 
+    slotTransforms:
+    - {fileID: 6572978453749807595}
+    models:
+    - {fileID: 0}
+  - suffixes:
+    - 
+    slotTransforms:
+    - {fileID: 6572978453749807595}
+    models:
+    - {fileID: 0}
+  - suffixes: []
+    slotTransforms: []
+    models: []
+  - suffixes:
+    - 
+    slotTransforms:
+    - {fileID: 6572978453749807595}
+    models:
+    - {fileID: 0}
+  - suffixes: []
+    slotTransforms: []
+    models: []
+  - suffixes: []
+    slotTransforms: []
+    models: []
+  - suffixes: []
+    slotTransforms: []
+    models: []
+  - suffixes: []
+    slotTransforms: []
+    models: []
+  - suffixes: []
+    slotTransforms: []
+    models: []
+--- !u!114 &6572978453749807592
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6572978453749807605}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e49101df21adcaf43b94a70b56d576ef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  item:
+    itemType: 
+    iconName: 
+    itemName: 
+    maxStack: 0
+    quantity: 0
+    modelName: 
+    slot: 0
+    stats: []
+    rarity: 0
+    magicStats: []
+--- !u!135 &6616715702948371269
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6572978453749807605}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 1.1750162
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &8907965482097202810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6572978453749807605}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0c3d1bb96bc39146a9192b92dc80254, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 90

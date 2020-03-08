@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <itemType>Item</itemType>
+  <itemName>item</itemName>
+  <iconName>icon</iconName>
+  <maxStack>10</maxStack>
+  <quantity>1</quantity>
+</data>
