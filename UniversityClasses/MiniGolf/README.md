@@ -8,7 +8,7 @@ MiniGolf is a basic mini gol game, which I made as third [task](./Lista03.pdf) f
 
 ## Instalation
 
-* You can find instalation instructions in [here](https://github.com/Bitterisland6/Unity/blob/master/README.md) in *Running the project* section.
+* You can find instalation instructions in [here](https://github.com/Bitterisland6/Unity/blob/master/README.md) in *Running the project / game* section.
 
 * Unity version: *2019.2.10f1*
 
@@ -39,5 +39,7 @@ MiniGolf is a basic mini gol game, which I made as third [task](./Lista03.pdf) f
 ## Acknowledgments
 
 * ***TextMesh Pro*** asset from Asset Store, you can find it [here](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126).
+
+* ***Minigolf Graphics Pack*** asset from Asset Store, you can find it [here](https://assetstore.unity.com/packages/3d/environments/minigolf-graphics-pack-33206).
 
 * ***Tomasz Szymański*** *- author of the music played during game, and when losing game.*

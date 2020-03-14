@@ -2,6 +2,7 @@
 
 This is the first task for our University course *Making games in Unity3D game engine*.
 We had to go through [this](https://youtu.be/pCBqgREiSUE) tutorial.
+**This project is so simple, that I decided to make build only for Linux. It wasn't valuable to make build for Windows and macOS.**
 
 ## Instalation
 

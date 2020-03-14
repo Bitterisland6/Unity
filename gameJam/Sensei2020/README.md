@@ -1,11 +1,11 @@
 # Life is Amaz(e)ing
 
 Life is Amaz(e)ing is a game, which we made in a group of 5 friends for Sensei Game Jam 2020.
-We got 9'th place (out of 30), scoring 350 points.
+We got 9'th place (out of 30), scoring 350 points([Game Jam Scores](http://senseigamejam.pl/wyniki.html)).
 
 ## Instalation
 
-* You can find instalation instructions in [here](https://github.com/Bitterisland6/Unity/blob/master/README.md) in *Running the project* section.
+* You can find instalation instructions in [here](https://github.com/Bitterisland6/Unity/blob/master/README.md) in *Running the project / game* section.
 
 * Unity version: *2019.2.7f2*
 

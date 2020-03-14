@@ -5,7 +5,7 @@ My games made in Unity game engine (all in c#).
 ## Getting Started
 
 To get you a copy of my projects you need to have installed **Unity** on your computer.
-If you want only the executables, then you can find them in 'projectName/Build/yourOS'.
+If you want only the executables, then you can find them in 'projectName/projectName/Build/yourOS'.
 
 ### Prerequisites
 
@@ -15,16 +15,18 @@ You can easly download Unity or Unity Hub on your computer from [here](https://u
 
 - To install the Unity Hub on Windows or macOS, visit [Download Unity](https://unity3d.com/get-unity/download).
 
-- To install the Unity Hub on Linux visit [Download Unity for Liux](https://forum.unity.com/threads/unity-hub-v2-0-0-release.677485/?_ga=2.62773420.187063667.1583686914-1236938044.1553758856).
+- To install the Unity Hub on Linux visit [Download Unity for Linux](https://forum.unity.com/threads/unity-hub-v2-0-0-release.677485/?_ga=2.62773420.187063667.1583686914-1236938044.1553758856).
+
+***Unity don't need to have Unity installed to just play the game.***
 
 ## Running the game
 
 When you have downloaded all needed files
-- Windows: you just need to double click the `projectName.exe` file, and follow further instructions if they appear.
+- Windows: you just need to double click the `projectName SETUP.exe` file, and follow further instructions of the installer.
 
 - macOS: you just need to double click the `projectName.app` file, and follow further instructions if they appear.
 
-- Linux: you can double click the 'projectName.x86_64' file, or open new terminal, go to location where you have downloaded the game, and run it with command `./projectName.x86_64`. If there are any problems with running the file, add executable rights to this file ussing `sudo chmod +x projectName.x86_64` command, and try again running the game.
+- Linux: First you need to unzip the `projectName.zip` *(`unzip projectName.zip` command in terminal)*. Then you can double click the 'projectName.x86_64' file, or open file location in terminal, and run it with command `./projectName.x86_64`. If there are any problems with running the file, add executable rights to this file using `sudo chmod +x projectName.x86_64` command, and try again running the game.
 
 ## Running the project
 
