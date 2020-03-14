@@ -6,6 +6,12 @@ using UnityEngine.SceneManagement;
 public class MenuScript : MonoBehaviour
 {
     public GameObject popup_window;
+    
+    void Awake() {
+        Cursor.visible = true;
+        Cursor.lockState = CursorLockMode.None;
+    }
+
     public void PressStartButton()
     {
         popup_window.SetActive(true);

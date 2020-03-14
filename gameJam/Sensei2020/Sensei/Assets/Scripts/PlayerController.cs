@@ -66,8 +66,9 @@ public class PlayerController : MonoBehaviour
         chC = GetComponent<CharacterController>();  
         //getting camera refence
         myCam = Camera.main;
-        //locking mouse to the center of the screen
+        //locking mouse to the center of the screen and hiding cursor
         Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
         //getting audio source reference from player
         myAS = GetComponent<AudioSource>();
         //playing song
