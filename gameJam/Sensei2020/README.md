@@ -13,11 +13,11 @@ We got 9'th place (out of 30), scoring 350 points([Game Jam Scores](http://sense
 
 * Topic of this game jam was ***Don't trust the game***, so I would actually destroy you fun if i told here all the rules and goals. *The only thing you should know now is that you have to escape from maze.*
 
-* For movement I can say that you can look around with `mouse`, jump with `Space` and move with standard keys used for moveming in games
+* For movement I can say that you can look around with `mouse`, jump with `Space` and move with standard keys used for moveming in games.
 
-* Tip: **you need to find something (or some things?) and get somwhere**
+* Tip: **you need to find something (or some things?) and get somwhere**.
 
-* Second Tip: ***DON'T TRUST THE GAME***
+* Second Tip: ***DON'T TRUST THE GAME***.
 
 ## Authors
 * **Krzysztof Sławik** - *Team leader, animations, main maze logic, graphics, rooms' logic, rooms' design. Helped in all thing in this game.*

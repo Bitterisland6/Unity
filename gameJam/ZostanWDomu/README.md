@@ -2,6 +2,7 @@
 
 Shelter Skelter is a game, which we made in a group of 3 friends for game jam #ZostanWDomuRobGry (stay at home, make games), as bigTINYGames.
 We've got awarded two times by orginizers in our age group (students) out of 145 projects[Game Jam results - only in polish](https://polskigamedev.pl/zostanwdomurobgry-znamy-zwyciezcow/)).
+Shelter Skelter is a turn based, board game of isometric projection, where you command a group of four people: engineer, cook, scientist and adventurer. You need to survive for 15 days in a deserted city, fullfiling couple tasks like gathering food, or rebuilding broken sturctures for shelter. You can play alone, or as a team.
 
 ## Instalation
 
