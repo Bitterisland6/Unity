@@ -17,7 +17,7 @@ You can easly download Unity or Unity Hub on your computer from [here](https://u
 
 - To install the Unity Hub on Linux visit [Download Unity for Linux](https://forum.unity.com/threads/unity-hub-v2-0-0-release.677485/?_ga=2.62773420.187063667.1583686914-1236938044.1553758856).
 
-***Unity don't need to have Unity installed to just play the game.***
+***You don't need to have Unity installed to just play the game.***
 
 ## Running the game
 
