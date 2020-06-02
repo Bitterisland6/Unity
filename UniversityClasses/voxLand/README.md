@@ -5,7 +5,7 @@ You can see documentation of this version [here](./VoxLand.pdf) *(it's only in p
 
 ## Instalation
 
-* You can find instalation instructions in [here](https://github.com/Bitterisland6/Unity/blob/master/README.md) in *Running the project* section.
+* You can find instalation instructions [here](https://github.com/Bitterisland6/Unity/blob/master/README.md) in *Running the project* section.
 
 * Unity version: *2019.2.7f2*
 

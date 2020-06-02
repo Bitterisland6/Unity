@@ -6,7 +6,7 @@ Shelter Skelter is a turn based, board game of isometric projection, where you c
 
 ## Instalation
 
-* You can find instalation instructions in [here](https://github.com/Bitterisland6/Unity/blob/master/README.md) in *Running the project / game* section. **There are no build versions for Linux and macOS, you can play game online (see below).** 
+* You can find instalation instructions [here](https://github.com/Bitterisland6/Unity/blob/master/README.md) in *Running the project / game* section. **There are no build versions for Linux and macOS, you can play game online (see below).** 
 
 * You can play also the online version - doesn't require download or anything, just hit **Run game** button. You can find it with you tube film presenting the gameplay[here](https://bigtinygames.itch.io/shelter-skelter) *game might lag on the beggining, but once it starts running, and loads all assets, then it runs ver well*.
 

@@ -1,14 +1,14 @@
 # MiniGolf
 
-MiniGolf is a basic mini gol game, which I made as third [task](./Lista03.pdf) for University course *Making games in Unity3D game engine*.
+MiniGolf is a basic mini golf game, which I made as third [task](./Lista03.pdf) for University course *Making games in Unity3D game engine*.
 
 ***The game has a bug which occurs on finnishing last level (it's impossible to put your score to scoreboard). I had no time to fix it, even if it is simple bug***
 
-***Even if you decide to play this game, I strongly suggest to turn down the game sounds in options menu. The music is very annoying in this game to my view.***
+***Even if you decide to play this game, I strongly suggest to turn down the game sounds in options menu. The music is very annoying in this game in my view.***
 
 ## Instalation
 
-* You can find instalation instructions in [here](https://github.com/Bitterisland6/Unity/blob/master/README.md) in *Running the project / game* section.
+* You can find instalation instructions [here](https://github.com/Bitterisland6/Unity/blob/master/README.md) in *Running the project / game* section.
 
 * Unity version: *2019.2.10f1*
 
