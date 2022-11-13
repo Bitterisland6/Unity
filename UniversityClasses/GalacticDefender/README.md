@@ -1,6 +1,6 @@
 # GalacticDefender
 
-GalacticDefender is a game based on SpaceInvaders, which I made as fourth task (juice one of the previous games made for this course) for University course *Making games in Unity3D game engine*.
+GalacticDefender is a game based on SpaceInvaders, which I made as the fourth task (juice one of the previous games made for this course) for University course *Making games in Unity3D game engine*.
 
 ## Video
 

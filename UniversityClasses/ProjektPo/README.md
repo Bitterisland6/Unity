@@ -1,6 +1,6 @@
 # ProjektPo
 
-ProjektPo is a game which i made as a final project for Univeristy course *Objected Programming*.
+ProjektPo is a game which i made as the final project for Univeristy course *Objected Programming*.
 You can find project's documentation [here](./dokumentacjaPO.odt) *(it's only in polish)*.
 I went through tutorial from *CasanisPlays* YouTube channel, and built my game based on this tutorial.
 

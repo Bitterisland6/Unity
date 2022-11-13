@@ -1,6 +1,6 @@
 # MiniGolf
 
-MiniGolf is a basic mini golf game, which I made as third [task](./Lista03.pdf) for University course *Making games in Unity3D game engine*.
+MiniGolf is a basic mini golf game, which I made as the third [task](./Lista03.pdf) for University course *Making games in Unity3D game engine*.
 
 ***The game has a bug which occurs on finnishing last level (it's impossible to put your score to scoreboard). I had no time to fix it, even if it is simple bug***
 

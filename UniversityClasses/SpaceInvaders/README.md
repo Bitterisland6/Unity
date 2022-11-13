@@ -1,6 +1,6 @@
 # SpaceInvaders
 
-Game based on original SpaceInvaders, which I made as second [task](./Lista02.pdf) for University course *Making games in Unity3D game engine*.
+Game based on original SpaceInvaders, which I made as the second [task](./Lista02.pdf) for University course *Making games in Unity3D game engine*.
 
 ## Video
 
